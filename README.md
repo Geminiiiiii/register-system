@@ -13,7 +13,7 @@ Due to the large number of people in the university, it is difficult to manage, 
 
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/1.png)
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/2.png)
-![Image](https://github.com/Geminiiiiii/register-system/raw/main/3.png)
+![Image](https://github.com/Geminiiiiii/register-system/raw/main/code2.png)
 ## Getting Started 使用指南
 
 Application servers, the container in which Java EE applications are executed, offer all the capabilities and services necessary for the application to function, including network connectivity, security, database connectivity, etc. Any application server that supports Java EE, such as Apache Tomcat, JBoss, WebSphere, etc., may run Java EE applications.
@@ -27,7 +27,6 @@ eclipse  and tomcat
 ### Usage example 使用示例
 
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/code1.png)
-![Image](https://github.com/Geminiiiiii/register-system/raw/main/code2.png)
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/code3.png)
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/code4.png)
 ![Image](https://github.com/Geminiiiiii/register-system/raw/main/code5.png)
