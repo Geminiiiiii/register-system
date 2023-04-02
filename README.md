@@ -11,7 +11,7 @@ personal-cv
 
 Since everyone is a student in the graduation season, they all need to use a personal resume. I simply made a personal resume template. You can put your personal information, educational background, and internship experience. Interested companies send their email addresses and messages so that interviewers can contact them more easily
 
-![Image](https://github.com/geminiiiiii/personal-cv/raw/master/cv.jpg)
+![Image](https://github.com/Geminiiiiii/register-system/raw/main/1.png)
 
 ## Getting Started 使用指南
 
