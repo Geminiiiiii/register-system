@@ -1,0 +1,25 @@
+/**
+
+
+*/
+body{
+ background-image:url(../imgs/ks.jpeg);
+ background-size:cover;
+}
+.Login{
+ width:500px;
+ margin:200px auto;
+ border:1px solid white;
+ padding:20px;
+ background-color:white;
+}
+.title{
+ font-size:24px;
+ text-align:center;
+ font-weight:bold;
+ margin-bootom:30px;
+}
+.tologin{
+ text-align:center;
+}
+
